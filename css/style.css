@@ -1,0 +1,7 @@
+.jumbotron .container {
+  max-width: 40rem; }
+  @media screen and (min-width: 768px) {
+    .jumbotron .container {
+      padding: 4rem 0; } }
+
+/*# sourceMappingURL=style.css.map */
